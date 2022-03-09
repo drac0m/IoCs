@@ -1,4 +1,4 @@
-atom_type, atom_value, first_seen, last_updated, subcategories, threat_scores, threat_types
+atom_type,atom_value,first_seen,last_updated,subcategories,threat_scores,threat_types
 domain, 3237.site, 2021-08-12T00:00:00Z, 2022-03-06T15:21:52Z, [], [0, 13, 20, 0, 0, 0, 0, 50, 0], ['leak', 'phishing', 'malware', 'spam', 'fraud', 'ddos', 'scam', 'hack', 'scan']
 domain, abrumpere.online, 2020-11-23T20:43:55Z, 2022-02-26T16:11:30Z, ['Intrusion Set:Gamaredon Group - G0047'], [3, 7, 6], ['hack', 'malware', 'phishing']
 domain, abrusa.xyz, 2020-08-29T11:31:09Z, 2022-02-21T16:11:30Z, ['Intrusion Set:Gamaredon Group - G0047'], [19, 13], ['malware', 'phishing']
